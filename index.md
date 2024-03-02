@@ -7,15 +7,16 @@ profile:
 published: true
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+Greetings!
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
+I'm Radovan Balog, a quiet software engineer originally from a little country called Slovakia. While I always had an inclination towards computers, my professional journey started right before I started studying computer science at [Comenius University in Bratislava](https://fmph.uniba.sk/en/).
 
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+My first job though, wasn't a development job. I was only 18 when I joined [2Ring](https://www.2ring.com/) as a Software Tester. It became very apparent though, that testing wasn't something I wanted to do full-time and I made the transition to a Full-stack engineer after two years. For the next four years, I worked and improved as a Full-stack Engineer, learning how the dev world works and improving with a large variety of tools, languages and frameworks. We touched everything from an old jquery web application, to microservices running in the cloud with a (then) modern SPA.
 
-PS: If you liked the theme, do star it on GitHub!
+After spending a little over 6 years at 2Ring, I decided it was time for a change. That was when I joined [ESET](https://www.eset.com/int/). This breath of fresh air resulted in me being one of the first people on a greenfield project, where I eventually took on a Lead frontend role.
 
-### Also, check out:
+After two impactful years, I started feeling like I wanted more out of life. More challenges, more learning and a different environment altogether. This culminated in me moving to the wonderful Netherlands. I joined a new company with a recently opened Amsterdam office called [NewGlobe](https://newglobe.education/home-page/). It's here, where I currently contribute to a number of different projects, both old and new.
 
-- [autoCV](https://github.com/jitinnair1/autocv) - a LaTeX template that builds and deploys the CV using GitHub Actions, so you will always have a ready link for your latest CV
-- [Tail](https://github.com/jitinnair1/tail) - a minimal, quick-setup template for a blog
+Even while I'm employed, I try to stay up to date with any new frontend and backend technologies. Occasionally build little experimental projects to get a feel for any new frameworks. I spend a lot of time reading blogs of other developers, engineers and freelancers, which in part led to me create the page you are seeing right now.
+
+The time spent working is not everything there is to offer in life. When I'm not coding, I spend my time enjoying quite hobbies. I love games, both digital and tabletop, I love D&D, movies (especially the bad ones) and listen to lot's of music.
